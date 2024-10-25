@@ -16,7 +16,7 @@ chmod 600 <filename>
 ## Step-by-Step Example
 ### Check the current permissions:
 
-To see the current permissions of example.txt, use:
+To see the current permissions of styles.css, use:
 ```sh
 ls -l styles.css
 ```
@@ -33,7 +33,7 @@ chmod 600 styles.css
 ```
 ### Verify the permissions:
 
-Run ls -l example.txt again to confirm the change:
+Run ls -l styles.css again to confirm the change:
 ```sh
 ls -l styles.css
 ```
